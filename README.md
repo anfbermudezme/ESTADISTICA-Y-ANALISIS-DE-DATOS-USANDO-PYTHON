@@ -36,4 +36,4 @@ For the scientific articles, notes and other tools that I need for my career as 
 
 
 ![](https://raw.githubusercontent.com/anfbermudezme/Blog/master/imagenes/Luna.png)
-![](https://raw.githubusercontent.com/anfbermudezme/PROGRAMACION_DINAMICA_Y_ESTOCASTICA/master/Certificado/certificado.PNG)
+![](https://raw.githubusercontent.com/anfbermudezme/ESTADISTICA-Y-ANALISIS-DE-DATOS-USANDO-PYTHON/master/Certificado/certificado.PNG)
